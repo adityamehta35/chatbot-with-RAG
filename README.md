@@ -1,7 +1,5 @@
 # Document Reader Chatbot with Chroma DB
 
-## Project Overview
-
 ## Video Walkthrough
 
 ## Contextual Information Retrieval
