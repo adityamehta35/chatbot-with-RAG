@@ -31,7 +31,7 @@ def main():
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
 
     # Streamlit interface
-    st.title("OpenAI Chatbot with Chroma DB")
+    st.title("Document Reader ChatBot")
     query_text = st.text_input("Enter your question:")
 
     if st.button("Ask"):
