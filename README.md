@@ -2,6 +2,8 @@
 
 ## Video Walkthrough
 
+https://youtu.be/I_AG0XMn_SQ
+
 ## Project Report
 [View the PDF](Project%20Report.pdf)
 
