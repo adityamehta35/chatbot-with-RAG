@@ -3,7 +3,7 @@
 ## Video Walkthrough
 
 ## Project Report
-[View the PDF](ProjectReport.pdf)
+[View the PDF](Project Report.pdf)
 
 ## Contextual Information Retrieval
 
