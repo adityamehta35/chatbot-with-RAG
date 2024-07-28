@@ -6,7 +6,7 @@ https://youtu.be/yMzjFNN7jWg
 
 ## Video Walkthrough for Calculating and Reporting Metrics of the RAG Pipeline 
 
-https://www.loom.com/share/12705feb3b124014879bfefef77f1da9?sid=ffe2d44e-45aa-44b3-8cde-8dde632987a0
+https://www.loom.com/share/12705feb3b124014879bfefef77f1da9?sid=d133dfe2-9529-43f8-a717-ec05b758557f
 
 ## Project Report
 [View the PDF](Project%20Report.pdf)
